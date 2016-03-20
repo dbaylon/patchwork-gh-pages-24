@@ -1,6 +1,6 @@
 ---
 profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
+name: "The Workshop Man"
 title: "Education Consultant"
 ---
 
@@ -22,7 +22,3 @@ Adrian is available for projects on a case by case basis. Some of the services h
 * Culture development
 * Management coaching
 * Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
